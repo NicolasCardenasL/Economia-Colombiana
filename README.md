@@ -1,2 +1,2 @@
 # Economia-Colombiana
-Economía Colombiana: portal web ofrece estadísticas financieras nacionales para comprender el mercado y tomar decisiones informadas en política monetaria, estabilidad financiera y mercados financieros, ampliando perspectivas y gestionando riesgos.
+Economía Colombiana es sitio web diseñado con el fin de hacer más accesible las estadísticas financieras nacionales en el contexto Colombiano.  Lo anterior, con el fin de hacer que nuestros usuarios entiendan las situaciones específicas del mercado financiero; permitiéndoles asumir riegos desde una perspectiva más informada. El sitio web  permite acceder a indicadores relacionados con La Política Monetaria, La Estabilidad Financiera Y Los Mercados Financieros.
