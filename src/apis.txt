@@ -1,0 +1,6 @@
+Base URL
+https://data.fixer.io/api/
+
+
+https://data.fixer.io/api/latest
+    ? access_key = API_KEY
